@@ -24,6 +24,18 @@
 <a href="https://www.php.net" target="_blank">
   <img src="https://skillicons.dev/icons?i=php" />
 </a>
+  <a href="https://vuejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vue" />
+</a>
+<a href="https://go.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=go" />
+</a>
+<a href="https://symfony.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=symfony" />
+</a>  
+<a href="https://laravel.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=laravel" />
+</a>
 </p>
 <h3 align="left">Other</h3>
 <p align="left">
@@ -35,12 +47,6 @@
 </a>
 <a href="https://www.java.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=java" />
-</a>
-<a href="https://vuejs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vue" />
-</a>
-<a href="https://go.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=go" />
 </a>
 <a href="https://eclipseide.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=eclipse" />
