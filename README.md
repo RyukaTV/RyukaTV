@@ -39,6 +39,9 @@
 <a href="https://alpinejs.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=alpinejs" />
 </a>
+<a href="https://www.npmjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=npm" />
+</a>
 </p>
 <h3 align="left">Other</h3>
 <p align="left">
@@ -62,5 +65,9 @@
 </a>
   <a href="https://github.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
+</a>
+</a>
+  <a href="https://stackoverflow.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
 </p>
