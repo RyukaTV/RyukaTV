@@ -36,6 +36,9 @@
 <a href="https://laravel.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=laravel" />
 </a>
+<a href="https://alpinejs.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=alpinejs" />
+</a>
 </p>
 <h3 align="left">Other</h3>
 <p align="left">
